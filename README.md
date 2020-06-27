@@ -16,7 +16,7 @@ The algorithm does <b>2*E</b> (E = number of network edges) message forwardings 
 
 ### How to run - Instructions
 
-1. Download and install [OMNet++] (https://omnetpp.org/download/) (tested on 5.6.2 version)
+1. Download and install [OMNet++](https://omnetpp.org/download/) (tested on 5.6.2 version)
 2. Run ```git clone (git url of the repository)``` into a directory in order to download the project.
 3. Open OMNeT++ IDE
 4. Go to ```File > Open Project from File System...``` and define the project directory as the "Import source"
