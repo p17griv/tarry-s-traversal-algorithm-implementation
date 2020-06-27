@@ -4,6 +4,8 @@
 
 This is a student project made for "Distributed Systems" course of department of Informatics - Ionian University. The main purpose of the project is to implement Tarry's Traversal Algorithm, run it on various networks with random topologies and compare algorithm's complexity-theory (message passes) with the results of the simulations.
 
+##### [Report (greek)](https://github.com/p17griv/tarrys-traversal-algorithm-implementation/blob/master/report%20-%20greek.pdf)
+
 ### About Tarry's Algorithm
 
 Tarry's algorithm is a random graph traversal algorithm defined in 1895. Algorithm's functionality is based on two rules:
