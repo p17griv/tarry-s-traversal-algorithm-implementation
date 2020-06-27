@@ -13,3 +13,11 @@ Tarry's algorithm is a random graph traversal algorithm defined in 1895. Algorit
 The algorithm does <b>2*E</b> (E = number of network edges) message forwardings because the token is sent only once through each direction of each channel - network edge.
 
 ###### *parent node: the node who sent the token for the first time for each node.
+
+### How to run - Instructions
+
+1. Download and install [OMNet++] (https://omnetpp.org/download/) (tested on 5.6.2 version)
+2. Run ```git clone (git url of the repository)``` into a directory in order to download the project.
+3. Open OMNeT++ IDE
+4. Go to ```File > Open Project from File System...``` and define the project directory as the "Import source"
+5. Open the "omnetpp.ini" file and run the simulation.
